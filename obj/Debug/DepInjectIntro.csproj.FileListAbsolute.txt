@@ -1,0 +1,6 @@
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\DepInjectIntro\DepInjectIntro\bin\Debug\DepInjectIntro.exe.config
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\DepInjectIntro\DepInjectIntro\bin\Debug\DepInjectIntro.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\DepInjectIntro\DepInjectIntro\bin\Debug\DepInjectIntro.pdb
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\DepInjectIntro\DepInjectIntro\obj\Debug\DepInjectIntro.csprojResolveAssemblyReference.cache
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\DepInjectIntro\DepInjectIntro\obj\Debug\DepInjectIntro.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\DepInjectIntro\DepInjectIntro\obj\Debug\DepInjectIntro.pdb
